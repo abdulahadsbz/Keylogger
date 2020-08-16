@@ -17,12 +17,12 @@ dont worry it is not a virus it wont send me your key strokes or anything like t
 No but you can make it run in the background by making it a .pyw file instead
 
 ### should i run the exe or py(w) file
-allthough keylogger.exe works (Atleast on windows) i still suggest you run Keylogger.py(w) becuase they is more stable
+allthough keylogger.exe works (Atleast on windows) i still suggest you run Keylogger.py(w) becuase they are more stable
 
 
 ## Terms of use
 - Dont use it for anything malicious  
 - I am not responsible for any loss or damage it may cause
-- Dont claim it as your own give credit
+- Dont claim it as your own give credit to https://github.com/abdulahadsbz
 
 other then that feel free to use it :)
