@@ -23,6 +23,5 @@ allthough keylogger.exe works (Atleast on windows) i still suggest you run Keylo
 ## Terms of use
 - Dont use it for anything malicious  
 - I am not responsible for any loss or damage it may cause
-- Dont claim it as your own give credit to https://github.com/abdulahadsbz
 
 other then that feel free to use it :)
