@@ -26,6 +26,6 @@ if you want to convert this into exe use cx_freeze
 
 ## Terms of use
 - Dont use it for anything malicious  
-- I am not responsible for any loss or damage it may cause
+- WARNING I am not responsible for any loss or damage it may cause  
 
 other then that feel free to use it :)
