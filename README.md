@@ -13,7 +13,7 @@
 ## Other info  
 
 ### How it works
-It creates a log.txt and puts all keylogs in it along with the time they were pressed and which window was active when they were pressed. After it ammases 2000 chracters it sends an email to the recipent and then clears the text file. The pynput module is used for this
+It creates a log.txt and puts all keylogs in it along with the time they were pressed and which window was active when they were pressed. After it ammases 2000 chracters it sends an email to the recipent and then clears the text file.
 
 ### Is it a virus
 Dont worry it is not a virus it wont send me your key strokes or anything like that i only made this for fun if you are still not sure you can open a text editor and see the code yourself
