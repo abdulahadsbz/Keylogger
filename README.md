@@ -21,6 +21,9 @@ Dont worry it is not a virus it wont send me your key strokes or anything like t
 ### Does it run in the background
 No but you can make it run in the background by making it a .pyw file instead
 
+### Conrvet into exe
+if you want to convert this into exe use cx_freeze
+
 ## Terms of use
 - Dont use it for anything malicious  
 - I am not responsible for any loss or damage it may cause
